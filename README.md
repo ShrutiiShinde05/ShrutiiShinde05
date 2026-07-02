@@ -7,6 +7,23 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;DSA+Enthusiast;Problem+Solver;Always+Learning!" alt="Typing SVG" />
+</div>
+
+## 🏅 GSSoC 2026 Badges
+
+<div align="center">
+  <img src="gssoc-badge-role_contributor.png" width="150" alt="Contributor Badge"/>
+  <img src="gssoc-badge-profile_complete.png" width="150" alt="Profile Complete Badge"/>
+  <img src="gssoc-badge-first_steps.png" width="150" alt="First Steps Badge"/>
+  <img src="gssoc-badge-discord_verified.png" width="150" alt="Discord Verified Badge"/>
+  <img src="gssoc-badge-week_one.png" width="150" alt="Week One Badge"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
 
 ## 🚀 About Me
 
